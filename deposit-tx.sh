@@ -6,4 +6,5 @@ echo $a
 for ((i=1;i<=$a;i++))
 do
   make deposit-test0
+  make deposit-test1
 done
