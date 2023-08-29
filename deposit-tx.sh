@@ -4,5 +4,6 @@ a=$1
 echo $a
 
 for ((i=1;i<=$a;i++))
-  do echo $i
+do
+  make deposit-test0
 done
